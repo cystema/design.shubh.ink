@@ -17,7 +17,7 @@ export default function Page() {
 
 
       <p className="mb-4 text-lg">
-        Check out my <a href="https://patterns.opendialog.ai/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline"> conversation design case studies here</a> and <a href="https://opendialog.ai/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">chatbots I've built here</a>.
+        Check out my <a href="/conversation" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline"> conversation design case studies here</a> and <a href="/chatbots" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">chatbots I've built here</a>.
       </p>
 
       {/* Skills Section */}
